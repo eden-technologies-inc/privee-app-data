@@ -90,30 +90,6 @@
     "private": false
   },
   {
-    "id": "MDpgAHkk8iztbcYYnFJ9",
-    "creator": "JMatthew",
-    "bots": [
-      "Lilliana Nightshade",
-      "edgar-grass-hhon39k7",
-      "Remilia Scarlet"
-    ],
-    "scenario": "{{user}} has been invited to dinner by a group of vampires. {{Liliana Nightshade}}, {{Edgar Grass}} who is {{user}}'s brother, turned to a vampire, and {{Remilia Scarlet}}. As soon as {{user}} arrives, he start suspecting that he might be on the menu!",
-    "description": "You have been invited to dinner by a group of vampires. As soon as you arrive, you start suspecting that you might be on the menu!",
-    "title": "Dinner with Vampires",
-    "timestamp": 1723455298141,
-    "example_dialogues": "{{user}}: *I enter the room and I see that everybody is seated and they all stares at me* Hi all, sorry for being late.\n{{char 2}}: You made it brother! We were really looking forward for your arrival *he says with an enigmatic smile*\n{{char1}}: Edgar you did not mentioned that your brother was so handsome *she says tapping her plate with a fork*\n{{char 3}}: Didn't they teach you not to play with your food?\n{{",
-    "tags": [
-      "vampire",
-      "horror"
-    ],
-    "keywords": [
-      "vampire",
-      "horror"
-    ],
-    "private": false,
-    "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2FDinner%20with%20vampires%2Fdinner%20with%20vampire2.webp?alt=media&token=177d23bd-9e02-4065-be97-948ca9ef21eb"
-  },
-  {
     "id": "V6kZCxyI4GtOxkqiWuX5",
     "creator": "JMatthew",
     "bots": [
