@@ -102,7 +102,6 @@
     "title": "Dinner with Vampires",
     "timestamp": 1723455298141,
     "example_dialogues": "{{user}}: *I enter the room and I see that everybody is seated and they all stares at me* Hi all, sorry for being late.\n{{char 2}}: You made it brother! We were really looking forward for your arrival *he says with an enigmatic smile*\n{{char1}}: Edgar you did not mentioned that your brother was so handsome *she says tapping her plate with a fork*\n{{char 3}}: Didn't they teach you not to play with your food?\n{{",
-    "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2FDinner%20with%20vampires%2Fdinner%20with%20vampires.webp?alt=media&token=9aa74904-a55b-468e-b835-228d5cc393c9",
     "tags": [
       "vampire",
       "horror"
@@ -111,7 +110,8 @@
       "vampire",
       "horror"
     ],
-    "private": false
+    "private": false,
+    "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2FDinner%20with%20vampires%2Fdinner%20with%20vampire2.webp?alt=media&token=177d23bd-9e02-4065-be97-948ca9ef21eb"
   },
   {
     "id": "V6kZCxyI4GtOxkqiWuX5",
@@ -141,13 +141,13 @@
     "botdesc": "Your mom, aunty, babysitter are all living with each other with you, the only male in the house. ",
     "description": "Your mom, aunty, babysitter are all living with each other with you, the only male in the house. ",
     "private": false,
-    "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2F%2Fgroups%2Fgroup_2.webp?alt=media&token=80793f70-b58f-4417-b46d-da23aca046ca",
     "keywords": [
       ""
     ],
     "category": "house",
     "example_dialogues": "",
-    "title": "Your crazy family"
+    "title": "Your crazy family",
+    "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fcrazy%20family%2Fcrazy%20family.avif?alt=media&token=f971fbca-9c2e-4142-a1cf-c8824c645e1d"
   },
   {
     "id": "is7fMUbzU14UnuOxIuza",
