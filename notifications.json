@@ -1,0 +1,22 @@
+[
+  {
+    "title": "New Feature Released",
+    "message": "We are excited to announce the release of our new feature. It allows you to automate your daily tasks with just a few clicks!",
+    "color": "#4CAF50"
+  },
+  {
+    "title": "System Maintenance",
+    "message": "Our servers will undergo scheduled maintenance on September 10th, 2024, from 12:00 AM to 4:00 AM UTC. Please plan accordingly.",
+    "color": "#FF9800"
+  },
+  {
+    "title": "Security Update",
+    "message": "A critical security update has been applied to our systems. Please make sure to reset your passwords to enhance your account security.",
+    "color": "#F44336"
+  },
+  {
+    "title": "Welcome to Our Platform!",
+    "message": "Thank you for joining us! Explore our features and start making the most out of our services.",
+    "color": "#2196F3"
+  }
+]
