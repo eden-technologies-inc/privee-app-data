@@ -43,7 +43,7 @@
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fgroup-therapy%2Fgroup%20therapy.avif?alt=media&token=cb6d4c36-615d-49e9-af4d-c3b566ab285e",
     "private": false,
     "chats": 6,
-    "messages": 388
+    "messages": 516
   },
   {
     "id": "5URDSZ19UxjrhtBNPI1n",
@@ -68,7 +68,7 @@
       "fantasy"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fpotions%20lesson%2Fpotions%20class.webp?alt=media&token=2a9e34e6-edc1-4f6e-941f-a6629f4ffec3",
-    "messages": 5
+    "messages": 15
   },
   {
     "id": "Bh7txd2UMjmjk5xwzz0p",
@@ -91,8 +91,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 88,
-    "messages": 1929
+    "messages": 2372,
+    "chats": 103
   },
   {
     "id": "Eyo4ia4nNShxz6WSJWWz",
@@ -116,8 +116,8 @@
     "tags": [
       "anime"
     ],
-    "messages": 1696,
-    "chats": 60
+    "chats": 84,
+    "messages": 2401
   },
   {
     "id": "KaW4VcHqY8mnYzw37miP",
@@ -143,8 +143,8 @@
       "anime",
       "scenario"
     ],
-    "chats": 49,
-    "messages": 989
+    "chats": 66,
+    "messages": 1154
   },
   {
     "id": "KyOngKUgBJbjfCWQEwGq",
@@ -163,8 +163,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 14,
-    "messages": 131
+    "chats": 26,
+    "messages": 162
   },
   {
     "id": "MDpgAHkk8iztbcYYnFJ9",
@@ -191,7 +191,7 @@
       "dinner"
     ],
     "chats": 6,
-    "messages": 47
+    "messages": 100
   },
   {
     "id": "ShruTuepfKiQpdlUBSJn",
@@ -214,8 +214,8 @@
       "fantasy"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fhaunted%20house%2Fhaunted%20house.webp?alt=media&token=1c9630b2-ed55-4e8b-8e09-af640bb208c0",
-    "chats": 2,
-    "messages": 48
+    "messages": 89,
+    "chats": 4
   },
   {
     "id": "V6kZCxyI4GtOxkqiWuX5",
@@ -235,8 +235,8 @@
       "mistery",
       "scenario"
     ],
-    "chats": 41,
-    "messages": 787
+    "chats": 61,
+    "messages": 1204
   },
   {
     "id": "YcNtSZrQOS3X3NBbp7kf",
@@ -260,7 +260,7 @@
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fbully%20problem%2Fbully%20problem.avif?alt=media&token=1c1e7855-7f6e-42d3-8d9f-64f9ffe358fb",
     "private": false,
     "chats": 7,
-    "messages": 172
+    "messages": 188
   },
   {
     "id": "YwucVVe27gq4U6p7srf5",
@@ -286,8 +286,8 @@
       "family",
       "scenario"
     ],
-    "messages": 561,
-    "chats": 50
+    "chats": 112,
+    "messages": 770
   },
   {
     "id": "ZEp5LflTlQpz2KV7qUzE",
@@ -334,8 +334,8 @@
       "game-of-thrones"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fwar%20summit%2Fgame-of-thrones.avif?alt=media&token=e1181a09-d527-4420-86b0-cd88fb93fb28",
-    "chats": 1,
-    "messages": 138
+    "chats": 3,
+    "messages": 187
   },
   {
     "id": "is7fMUbzU14UnuOxIuza",
@@ -360,8 +360,8 @@
       "fantasy",
       "adventure"
     ],
-    "messages": 57,
-    "chats": 7
+    "chats": 8,
+    "messages": 61
   },
   {
     "id": "jX6Lt8Hn3HcbE2kWEOQz",
@@ -386,8 +386,8 @@
       "anime",
       "scenario"
     ],
-    "chats": 43,
-    "messages": 588
+    "chats": 47,
+    "messages": 710
   },
   {
     "id": "kWNp4u36a0x3QSA6N4fP",
@@ -435,8 +435,8 @@
     "example_dialogues": "Zeus: *glaring down, his voice rumbling like thunder*\nA mortal, here? On our mountain? Bold, foolish, or both. Do you have any idea where you stand, human?\n\nHera:  *with a raised eyebrow, her voice cold but curious*\nNo mortal has ever climbed this high without some divine intervention. Who helped you, mortal? Or have you truly defied the natural order?\n\nAphrodite: *her beauty is astonishing, smiling with an air of amusement, tilting her head as she examines {{user}}*\nOh, Hera, don't be so harsh. Look at them! Such determination... or perhaps love drove him here? Was it love, mortal? That's the only power I can imagine guiding you beyond your limits.\n\n{{user}}: *standing firm, heart pounding but refusing to show fear*\nI came on my own. No god helped me. I climbed to Olympus because I seek answers that only the gods can provide.\n\nZeus: *leaning forward, his eyes narrowing*\nAnswers? You risked your life, challenged fate itself, for answers? What could a mortal desire so desperately?\n\nHera: *suspicious, her voice sharp*\nIt better be more than a selfish desire for power or immortality. We’ve crushed greater ambitions for less.\n\nAphrodite: *smirking, brushing a golden lock behind her ear*\nOh, but Hera, power can be so... enticing. Surely this mortal has something interesting to say. Why not let him speak freely? After all, he's come so far.\n\n{{user}}: *taking a deep breath, glancing between the gods* I had to see you with my own eyes.\n\nEND OF DIALOGUE [[ start a new scene form now on, use the previous just as an example]] [[Only speak for one character at a time, NEVER SPEAK for {{user}} ]]",
     "scenario": "{{user}} reached the top of Mount Olympus and are at the presence of the Gods Zeus, Hera and Aphrodite. {{user}} is a mortal, the Gods have to decide what to do with him as he clearly went beyond what mortals are allowed to do. [[Only speak for one character at a time, NEVER SPEAK for {{user}} ]]",
     "private": false,
-    "messages": 95,
-    "chats": 15
+    "messages": 96,
+    "chats": 16
   },
   {
     "id": "q5qgIgGrVFXezatxX0jk",
@@ -458,8 +458,8 @@
       "anime"
     ],
     "situations": [],
-    "messages": 1940,
-    "chats": 86
+    "chats": 100,
+    "messages": 2136
   },
   {
     "id": "qYq3oiZN5XnkLkHJAMyt",
@@ -485,8 +485,8 @@
       "scenario",
       "adventure"
     ],
-    "chats": 123,
-    "messages": 3739
+    "messages": 4441,
+    "chats": 148
   },
   {
     "id": "rCOs3GBAkFcmidzS75VS",
@@ -506,8 +506,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 24,
-    "messages": 217
+    "messages": 253,
+    "chats": 30
   },
   {
     "id": "sNL71NIHCoYreyUD5Nk5",
@@ -532,8 +532,8 @@
       "twilight"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fedwardandbella%2Fedward%20e%20bella.webp?alt=media&token=ec93497b-335a-4922-8eb2-ade8839fae9e",
-    "chats": 3,
-    "messages": 38
+    "chats": 4,
+    "messages": 92
   },
   {
     "id": "u3zwyRJsRtjXak3IYBUu",
@@ -559,8 +559,8 @@
       "scenario",
       "adventure"
     ],
-    "chats": 54,
-    "messages": 1694
+    "chats": 67,
+    "messages": 2037
   },
   {
     "id": "zZQHreApgVyEBZ5HT4MI",
@@ -583,7 +583,7 @@
       "anime",
       "scenario"
     ],
-    "chats": 27,
-    "messages": 342
+    "messages": 646,
+    "chats": 43
   }
 ]
