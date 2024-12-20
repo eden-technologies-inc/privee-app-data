@@ -21,8 +21,8 @@
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fdaemon-and-rhaenyra%2Fdaemon%20and%20rhaenyra.jpg?alt=media&token=eb1e31bd-a7b5-41f5-97d0-339b54caead9",
     "private": false,
-    "chats": 6,
-    "messages": 58
+    "messages": 58,
+    "chats": 7
   },
   {
     "id": "0zgSZzbY5uVeq6wjL5TA",
@@ -42,8 +42,8 @@
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fgroup-therapy%2Fgroup%20therapy.avif?alt=media&token=cb6d4c36-615d-49e9-af4d-c3b566ab285e",
     "private": false,
-    "chats": 6,
-    "messages": 516
+    "chats": 7,
+    "messages": 524
   },
   {
     "id": "5URDSZ19UxjrhtBNPI1n",
@@ -68,7 +68,8 @@
       "fantasy"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fpotions%20lesson%2Fpotions%20class.webp?alt=media&token=2a9e34e6-edc1-4f6e-941f-a6629f4ffec3",
-    "messages": 59
+    "chats": 10,
+    "messages": 94
   },
   {
     "id": "Bh7txd2UMjmjk5xwzz0p",
@@ -91,8 +92,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 112,
-    "messages": 2461
+    "chats": 131,
+    "messages": 2823
   },
   {
     "id": "Eyo4ia4nNShxz6WSJWWz",
@@ -116,8 +117,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 101,
-    "messages": 2570
+    "chats": 152,
+    "messages": 2889
   },
   {
     "id": "KaW4VcHqY8mnYzw37miP",
@@ -143,8 +144,8 @@
       "anime",
       "scenario"
     ],
-    "chats": 80,
-    "messages": 1316
+    "chats": 96,
+    "messages": 1410
   },
   {
     "id": "KyOngKUgBJbjfCWQEwGq",
@@ -163,8 +164,8 @@
     "tags": [
       "anime"
     ],
-    "messages": 205,
-    "chats": 33
+    "messages": 258,
+    "chats": 41
   },
   {
     "id": "MDpgAHkk8iztbcYYnFJ9",
@@ -190,8 +191,8 @@
       "horror",
       "dinner"
     ],
-    "chats": 13,
-    "messages": 216
+    "messages": 217,
+    "chats": 15
   },
   {
     "id": "ShruTuepfKiQpdlUBSJn",
@@ -214,8 +215,8 @@
       "fantasy"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fhaunted%20house%2Fhaunted%20house.webp?alt=media&token=1c9630b2-ed55-4e8b-8e09-af640bb208c0",
-    "chats": 4,
-    "messages": 108
+    "chats": 5,
+    "messages": 128
   },
   {
     "id": "V6kZCxyI4GtOxkqiWuX5",
@@ -235,8 +236,8 @@
       "mistery",
       "scenario"
     ],
-    "chats": 69,
-    "messages": 1295
+    "messages": 1330,
+    "chats": 81
   },
   {
     "id": "YcNtSZrQOS3X3NBbp7kf",
@@ -259,8 +260,8 @@
     "scenario": "Ahazu, the school's bully, put her eyes on {{user}} and you are seeking help from your teacher Mrs Penny. REPLY FOR 1 CHARACTER AT A TIME, never speak for multiple characters in the same answer, never speak for {{user}}. Do not jump directly into sex scene, take time for a little slow burn.",
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fbully%20problem%2Fbully%20problem.avif?alt=media&token=1c1e7855-7f6e-42d3-8d9f-64f9ffe358fb",
     "private": false,
-    "messages": 228,
-    "chats": 11
+    "chats": 15,
+    "messages": 241
   },
   {
     "id": "YwucVVe27gq4U6p7srf5",
@@ -286,8 +287,8 @@
       "family",
       "scenario"
     ],
-    "messages": 1131,
-    "chats": 157
+    "chats": 178,
+    "messages": 1334
   },
   {
     "id": "ZEp5LflTlQpz2KV7qUzE",
@@ -310,8 +311,8 @@
       "romance"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2FACOTAR%2Facotar.jpeg?alt=media&token=ea34405b-07cf-4610-ba8c-4bd83e633123",
-    "messages": 20,
-    "chats": 23
+    "chats": 26,
+    "messages": 46
   },
   {
     "id": "fZGFLOBqdwzhmC5kISMp",
@@ -335,7 +336,7 @@
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fwar%20summit%2Fgame-of-thrones.avif?alt=media&token=e1181a09-d527-4420-86b0-cd88fb93fb28",
     "chats": 3,
-    "messages": 253
+    "messages": 254
   },
   {
     "id": "is7fMUbzU14UnuOxIuza",
@@ -386,8 +387,8 @@
       "anime",
       "scenario"
     ],
-    "chats": 52,
-    "messages": 742
+    "messages": 895,
+    "chats": 70
   },
   {
     "id": "kWNp4u36a0x3QSA6N4fP",
@@ -410,7 +411,7 @@
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Ffallen%20goddess%2Ffallen%20goddess.webp?alt=media&token=7fecaf5a-1c18-4811-811a-9dfc4901188a",
     "private": false,
     "messages": 14,
-    "chats": 5
+    "chats": 6
   },
   {
     "id": "l02nQ40n3N15908aeF6R",
@@ -435,8 +436,8 @@
     "example_dialogues": "Zeus: *glaring down, his voice rumbling like thunder*\nA mortal, here? On our mountain? Bold, foolish, or both. Do you have any idea where you stand, human?\n\nHera:  *with a raised eyebrow, her voice cold but curious*\nNo mortal has ever climbed this high without some divine intervention. Who helped you, mortal? Or have you truly defied the natural order?\n\nAphrodite: *her beauty is astonishing, smiling with an air of amusement, tilting her head as she examines {{user}}*\nOh, Hera, don't be so harsh. Look at them! Such determination... or perhaps love drove him here? Was it love, mortal? That's the only power I can imagine guiding you beyond your limits.\n\n{{user}}: *standing firm, heart pounding but refusing to show fear*\nI came on my own. No god helped me. I climbed to Olympus because I seek answers that only the gods can provide.\n\nZeus: *leaning forward, his eyes narrowing*\nAnswers? You risked your life, challenged fate itself, for answers? What could a mortal desire so desperately?\n\nHera: *suspicious, her voice sharp*\nIt better be more than a selfish desire for power or immortality. We’ve crushed greater ambitions for less.\n\nAphrodite: *smirking, brushing a golden lock behind her ear*\nOh, but Hera, power can be so... enticing. Surely this mortal has something interesting to say. Why not let him speak freely? After all, he's come so far.\n\n{{user}}: *taking a deep breath, glancing between the gods* I had to see you with my own eyes.\n\nEND OF DIALOGUE [[ start a new scene form now on, use the previous just as an example]] [[Only speak for one character at a time, NEVER SPEAK for {{user}} ]]",
     "scenario": "{{user}} reached the top of Mount Olympus and are at the presence of the Gods Zeus, Hera and Aphrodite. {{user}} is a mortal, the Gods have to decide what to do with him as he clearly went beyond what mortals are allowed to do. [[Only speak for one character at a time, NEVER SPEAK for {{user}} ]]",
     "private": false,
-    "chats": 16,
-    "messages": 111
+    "chats": 22,
+    "messages": 299
   },
   {
     "id": "q5qgIgGrVFXezatxX0jk",
@@ -458,8 +459,8 @@
       "anime"
     ],
     "situations": [],
-    "messages": 2155,
-    "chats": 111
+    "chats": 145,
+    "messages": 2537
   },
   {
     "id": "qYq3oiZN5XnkLkHJAMyt",
@@ -485,8 +486,8 @@
       "scenario",
       "adventure"
     ],
-    "messages": 5479,
-    "chats": 189
+    "messages": 6236,
+    "chats": 261
   },
   {
     "id": "rCOs3GBAkFcmidzS75VS",
@@ -506,8 +507,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 36,
-    "messages": 313
+    "messages": 420,
+    "chats": 92
   },
   {
     "id": "sNL71NIHCoYreyUD5Nk5",
@@ -533,7 +534,7 @@
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fedwardandbella%2Fedward%20e%20bella.webp?alt=media&token=ec93497b-335a-4922-8eb2-ade8839fae9e",
     "chats": 9,
-    "messages": 186
+    "messages": 190
   },
   {
     "id": "u3zwyRJsRtjXak3IYBUu",
@@ -559,8 +560,8 @@
       "scenario",
       "adventure"
     ],
-    "messages": 2107,
-    "chats": 71
+    "chats": 89,
+    "messages": 2280
   },
   {
     "id": "zZQHreApgVyEBZ5HT4MI",
@@ -583,7 +584,7 @@
       "anime",
       "scenario"
     ],
-    "messages": 766,
-    "chats": 52
+    "messages": 954,
+    "chats": 69
   }
 ]
