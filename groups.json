@@ -43,7 +43,7 @@
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fgroup-therapy%2Fgroup%20therapy.avif?alt=media&token=cb6d4c36-615d-49e9-af4d-c3b566ab285e",
     "private": false,
     "chats": 7,
-    "messages": 524
+    "messages": 529
   },
   {
     "id": "5URDSZ19UxjrhtBNPI1n",
@@ -92,8 +92,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 131,
-    "messages": 2823
+    "messages": 2839,
+    "chats": 167
   },
   {
     "id": "Eyo4ia4nNShxz6WSJWWz",
@@ -117,8 +117,8 @@
     "tags": [
       "anime"
     ],
-    "chats": 152,
-    "messages": 2889
+    "chats": 168,
+    "messages": 2897
   },
   {
     "id": "KaW4VcHqY8mnYzw37miP",
@@ -144,8 +144,8 @@
       "anime",
       "scenario"
     ],
-    "chats": 96,
-    "messages": 1410
+    "messages": 1412,
+    "chats": 106
   },
   {
     "id": "KyOngKUgBJbjfCWQEwGq",
@@ -191,8 +191,8 @@
       "horror",
       "dinner"
     ],
-    "messages": 217,
-    "chats": 15
+    "chats": 15,
+    "messages": 220
   },
   {
     "id": "ShruTuepfKiQpdlUBSJn",
@@ -215,8 +215,8 @@
       "fantasy"
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fhaunted%20house%2Fhaunted%20house.webp?alt=media&token=1c9630b2-ed55-4e8b-8e09-af640bb208c0",
-    "chats": 5,
-    "messages": 128
+    "chats": 6,
+    "messages": 221
   },
   {
     "id": "V6kZCxyI4GtOxkqiWuX5",
@@ -236,8 +236,8 @@
       "mistery",
       "scenario"
     ],
-    "messages": 1330,
-    "chats": 81
+    "messages": 1390,
+    "chats": 90
   },
   {
     "id": "YcNtSZrQOS3X3NBbp7kf",
@@ -261,7 +261,7 @@
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fbully%20problem%2Fbully%20problem.avif?alt=media&token=1c1e7855-7f6e-42d3-8d9f-64f9ffe358fb",
     "private": false,
     "chats": 15,
-    "messages": 241
+    "messages": 262
   },
   {
     "id": "YwucVVe27gq4U6p7srf5",
@@ -287,8 +287,8 @@
       "family",
       "scenario"
     ],
-    "messages": 1334,
-    "chats": 180
+    "messages": 1344,
+    "chats": 210
   },
   {
     "id": "ZEp5LflTlQpz2KV7qUzE",
@@ -387,8 +387,8 @@
       "anime",
       "scenario"
     ],
-    "messages": 895,
-    "chats": 70
+    "chats": 73,
+    "messages": 897
   },
   {
     "id": "kWNp4u36a0x3QSA6N4fP",
@@ -410,8 +410,8 @@
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Ffallen%20goddess%2Ffallen%20goddess.webp?alt=media&token=7fecaf5a-1c18-4811-811a-9dfc4901188a",
     "private": false,
-    "messages": 14,
-    "chats": 6
+    "chats": 7,
+    "messages": 118
   },
   {
     "id": "l02nQ40n3N15908aeF6R",
@@ -459,8 +459,8 @@
       "anime"
     ],
     "situations": [],
-    "chats": 145,
-    "messages": 2537
+    "messages": 2539,
+    "chats": 150
   },
   {
     "id": "qYq3oiZN5XnkLkHJAMyt",
@@ -486,8 +486,8 @@
       "scenario",
       "adventure"
     ],
-    "messages": 6236,
-    "chats": 261
+    "messages": 6243,
+    "chats": 284
   },
   {
     "id": "rCOs3GBAkFcmidzS75VS",
@@ -507,8 +507,8 @@
     "tags": [
       "anime"
     ],
-    "messages": 420,
-    "chats": 92
+    "messages": 477,
+    "chats": 99
   },
   {
     "id": "sNL71NIHCoYreyUD5Nk5",
@@ -560,8 +560,8 @@
       "scenario",
       "adventure"
     ],
-    "chats": 89,
-    "messages": 2280
+    "messages": 2282,
+    "chats": 98
   },
   {
     "id": "zZQHreApgVyEBZ5HT4MI",
@@ -584,7 +584,7 @@
       "anime",
       "scenario"
     ],
-    "messages": 954,
-    "chats": 69
+    "messages": 957,
+    "chats": 74
   }
 ]
