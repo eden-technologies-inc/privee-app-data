@@ -22,7 +22,19 @@
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fdaemon-and-rhaenyra%2Fdaemon%20and%20rhaenyra.jpg?alt=media&token=eb1e31bd-a7b5-41f5-97d0-339b54caead9",
     "private": false,
     "messages": 60,
-    "chats": 12
+    "chats": 12,
+    "stats": {
+      "202412": {
+        "chats": 4,
+        "messages": 20,
+        "regenerations": 0
+      },
+      "202502": {
+        "chats": 0,
+        "messages": 22,
+        "regenerations": 2
+      }
+    }
   },
   {
     "id": "0zgSZzbY5uVeq6wjL5TA",
@@ -146,9 +158,9 @@
         "regenerations": 52
       },
       "202502": {
-        "chats": 4,
-        "messages": 224,
-        "regenerations": 13
+        "chats": 13,
+        "messages": 396,
+        "regenerations": 29
       }
     }
   },
@@ -188,7 +200,7 @@
         "regenerations": 7
       },
       "202502": {
-        "chats": 8,
+        "chats": 10,
         "messages": 103,
         "regenerations": 17
       }
@@ -232,9 +244,9 @@
         "regenerations": 10
       },
       "202502": {
-        "chats": 12,
-        "messages": 30,
-        "regenerations": 2
+        "chats": 15,
+        "messages": 38,
+        "regenerations": 3
       }
     }
   },
@@ -269,8 +281,8 @@
         "regenerations": 14
       },
       "202502": {
-        "chats": 4,
-        "messages": 32,
+        "chats": 6,
+        "messages": 38,
         "regenerations": 0
       }
     }
@@ -349,8 +361,8 @@
         "regenerations": 4
       },
       "202502": {
-        "chats": 6,
-        "messages": 51,
+        "chats": 7,
+        "messages": 55,
         "regenerations": 0
       }
     }
@@ -472,9 +484,9 @@
         "regenerations": 386
       },
       "202502": {
-        "chats": 19,
-        "messages": 299,
-        "regenerations": 192
+        "chats": 23,
+        "messages": 338,
+        "regenerations": 206
       }
     }
   },
@@ -656,6 +668,11 @@
         "chats": 3,
         "messages": 169,
         "regenerations": 4
+      },
+      "202502": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
       }
     }
   },
@@ -731,9 +748,9 @@
         "regenerations": 46
       },
       "202502": {
-        "chats": 13,
-        "messages": 372,
-        "regenerations": 86
+        "chats": 19,
+        "messages": 560,
+        "regenerations": 96
       }
     }
   },
@@ -775,9 +792,9 @@
         "regenerations": 283
       },
       "202502": {
-        "chats": 45,
-        "messages": 1121,
-        "regenerations": 598
+        "chats": 48,
+        "messages": 1281,
+        "regenerations": 624
       }
     }
   },
@@ -813,7 +830,7 @@
         "regenerations": 19
       },
       "202502": {
-        "chats": 0,
+        "chats": 1,
         "messages": 3,
         "regenerations": 0
       }
@@ -900,9 +917,9 @@
         "regenerations": 2
       },
       "202502": {
-        "chats": 3,
-        "messages": 84,
-        "regenerations": 5
+        "chats": 6,
+        "messages": 117,
+        "regenerations": 9
       }
     }
   },
@@ -958,7 +975,7 @@
         "regenerations": 0
       },
       "202502": {
-        "chats": 0,
+        "chats": 1,
         "messages": 42,
         "regenerations": 35
       }
