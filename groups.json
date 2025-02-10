@@ -31,7 +31,7 @@
       },
       "202502": {
         "chats": 0,
-        "messages": 22,
+        "messages": 48,
         "regenerations": 2
       }
     }
@@ -158,9 +158,9 @@
         "regenerations": 52
       },
       "202502": {
-        "chats": 13,
-        "messages": 396,
-        "regenerations": 29
+        "chats": 16,
+        "messages": 685,
+        "regenerations": 30
       }
     }
   },
@@ -200,8 +200,8 @@
         "regenerations": 7
       },
       "202502": {
-        "chats": 10,
-        "messages": 103,
+        "chats": 16,
+        "messages": 146,
         "regenerations": 17
       }
     }
@@ -244,8 +244,8 @@
         "regenerations": 10
       },
       "202502": {
-        "chats": 15,
-        "messages": 38,
+        "chats": 17,
+        "messages": 50,
         "regenerations": 3
       }
     }
@@ -323,6 +323,11 @@
         "chats": 7,
         "messages": 187,
         "regenerations": 7
+      },
+      "202502": {
+        "chats": 0,
+        "messages": 4,
+        "regenerations": 0
       }
     }
   },
@@ -400,8 +405,8 @@
       },
       "202502": {
         "chats": 3,
-        "messages": 25,
-        "regenerations": 1
+        "messages": 41,
+        "regenerations": 7
       }
     }
   },
@@ -484,9 +489,9 @@
         "regenerations": 386
       },
       "202502": {
-        "chats": 23,
-        "messages": 338,
-        "regenerations": 206
+        "chats": 26,
+        "messages": 354,
+        "regenerations": 208
       }
     }
   },
@@ -548,7 +553,19 @@
     ],
     "cover_img": "https://firebasestorage.googleapis.com/v0/b/privee-web.appspot.com/o/%2Fgroups%2Fwar%20summit%2Fgame-of-thrones.avif?alt=media&token=e1181a09-d527-4420-86b0-cd88fb93fb28",
     "chats": 3,
-    "messages": 254
+    "messages": 254,
+    "stats": {
+      "202412": {
+        "chats": 1,
+        "messages": 84,
+        "regenerations": 0
+      },
+      "202502": {
+        "chats": 0,
+        "messages": 22,
+        "regenerations": 30
+      }
+    }
   },
   {
     "id": "is7fMUbzU14UnuOxIuza",
@@ -588,8 +605,8 @@
       },
       "202502": {
         "chats": 1,
-        "messages": 14,
-        "regenerations": 1
+        "messages": 56,
+        "regenerations": 11
       }
     }
   },
@@ -630,8 +647,8 @@
         "regenerations": 11
       },
       "202502": {
-        "chats": 8,
-        "messages": 56,
+        "chats": 9,
+        "messages": 65,
         "regenerations": 2
       }
     }
@@ -671,8 +688,8 @@
       },
       "202502": {
         "chats": 0,
-        "messages": 1,
-        "regenerations": 0
+        "messages": 29,
+        "regenerations": 1
       }
     }
   },
@@ -748,9 +765,9 @@
         "regenerations": 46
       },
       "202502": {
-        "chats": 19,
-        "messages": 560,
-        "regenerations": 96
+        "chats": 27,
+        "messages": 688,
+        "regenerations": 133
       }
     }
   },
@@ -792,9 +809,9 @@
         "regenerations": 283
       },
       "202502": {
-        "chats": 48,
-        "messages": 1281,
-        "regenerations": 624
+        "chats": 51,
+        "messages": 1358,
+        "regenerations": 635
       }
     }
   },
@@ -917,9 +934,9 @@
         "regenerations": 2
       },
       "202502": {
-        "chats": 6,
-        "messages": 117,
-        "regenerations": 9
+        "chats": 9,
+        "messages": 155,
+        "regenerations": 15
       }
     }
   },
@@ -975,7 +992,7 @@
         "regenerations": 0
       },
       "202502": {
-        "chats": 1,
+        "chats": 2,
         "messages": 42,
         "regenerations": 35
       }
