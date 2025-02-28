@@ -69,8 +69,8 @@
       },
       "202502": {
         "chats": 1,
-        "messages": 67,
-        "regenerations": 4
+        "messages": 76,
+        "regenerations": 5
       }
     }
   },
@@ -175,9 +175,9 @@
         "regenerations": 52
       },
       "202502": {
-        "chats": 40,
-        "messages": 1123,
-        "regenerations": 97
+        "chats": 84,
+        "messages": 1630,
+        "regenerations": 116
       }
     }
   },
@@ -217,9 +217,9 @@
         "regenerations": 7
       },
       "202502": {
-        "chats": 48,
-        "messages": 668,
-        "regenerations": 68
+        "chats": 53,
+        "messages": 864,
+        "regenerations": 69
       }
     }
   },
@@ -261,8 +261,8 @@
         "regenerations": 10
       },
       "202502": {
-        "chats": 30,
-        "messages": 134,
+        "chats": 32,
+        "messages": 138,
         "regenerations": 4
       }
     }
@@ -343,8 +343,8 @@
       },
       "202502": {
         "chats": 0,
-        "messages": 18,
-        "regenerations": 1
+        "messages": 31,
+        "regenerations": 2
       }
     }
   },
@@ -383,7 +383,7 @@
         "regenerations": 4
       },
       "202502": {
-        "chats": 8,
+        "chats": 9,
         "messages": 57,
         "regenerations": 1
       }
@@ -439,9 +439,9 @@
         "regenerations": 3
       },
       "202502": {
-        "chats": 18,
-        "messages": 233,
-        "regenerations": 38
+        "chats": 21,
+        "messages": 237,
+        "regenerations": 40
       }
     }
   },
@@ -524,9 +524,9 @@
         "regenerations": 386
       },
       "202502": {
-        "chats": 46,
-        "messages": 565,
-        "regenerations": 295
+        "chats": 59,
+        "messages": 585,
+        "regenerations": 313
       }
     }
   },
@@ -644,7 +644,7 @@
         "regenerations": 5
       },
       "202502": {
-        "chats": 2,
+        "chats": 3,
         "messages": 96,
         "regenerations": 17
       }
@@ -687,9 +687,9 @@
         "regenerations": 11
       },
       "202502": {
-        "chats": 12,
-        "messages": 93,
-        "regenerations": 3
+        "chats": 14,
+        "messages": 232,
+        "regenerations": 5
       }
     }
   },
@@ -810,9 +810,9 @@
         "regenerations": 46
       },
       "202502": {
-        "chats": 37,
-        "messages": 1087,
-        "regenerations": 162
+        "chats": 46,
+        "messages": 1316,
+        "regenerations": 167
       }
     }
   },
@@ -854,9 +854,9 @@
         "regenerations": 283
       },
       "202502": {
-        "chats": 108,
-        "messages": 3346,
-        "regenerations": 858
+        "chats": 113,
+        "messages": 3580,
+        "regenerations": 883
       }
     }
   },
@@ -979,9 +979,9 @@
         "regenerations": 2
       },
       "202502": {
-        "chats": 21,
-        "messages": 549,
-        "regenerations": 93
+        "chats": 22,
+        "messages": 552,
+        "regenerations": 94
       }
     }
   },
@@ -1013,6 +1013,23 @@
         "regenerations": 0
       }
     }
+  },
+  {
+    "id": "xHq8lbvDqaZbDXEUIIyU",
+    "title": "the smiling critters!",
+    "description": "all your favorite smiling critters in one group!",
+    "creator": "Techsoul",
+    "bots": [
+      "catnap-pbp9ro40",
+      "dogday-mvlqroyf"
+    ],
+    "scenario": "just have fun in the smiling critters world!",
+    "example_dialogues": "Name1: Hey \nName2: How's going? \nName3: Hey!",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/hev2EP1Jk1eH6pjTyv4RjkZljxi1/pics/d0e3461b635ee3afde4f52401.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=hNmZoCwmjT7iJAKRDy09JWx31X5MV4EEfkKUVNKtQCVrQhH%2BuWWopfpFGUqyUWdutCA3cMV1t1eGzLOvJa88NJD0hXMIlHgXLLVN9%2FasjgPX27wUGn%2BogHnbWR%2BGHCr3hrCzTJxUCxs0YsLH1c9ri3AMgtemxfpanG2Exuh9YHaaGy%2FxTNxhtfgfQoSrUJg%2Biyxp5m48hbWuqoq32R0MmQD91H7iGXP6gQehHpxnyiR%2FFlGX6Ifb%2FVCtPrMmd7o7Ax%2Fhc5iEbmRkoSp84JTLqoBl3bhAscGRgJxgyL15G%2BVpqA5EEhuUTQJrjMKSACGAxIa86LiKTFnhqCZmncpK%2Bg%3D%3D",
+    "timestamp": 1740523369247,
+    "private": false,
+    "nsfw": false,
+    "status": "public"
   },
   {
     "id": "zZQHreApgVyEBZ5HT4MI",
@@ -1049,9 +1066,9 @@
         "regenerations": 0
       },
       "202502": {
-        "chats": 8,
-        "messages": 160,
-        "regenerations": 39
+        "chats": 10,
+        "messages": 186,
+        "regenerations": 40
       }
     }
   }
