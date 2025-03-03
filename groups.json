@@ -71,6 +71,11 @@
         "chats": 1,
         "messages": 76,
         "regenerations": 5
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 18,
+        "regenerations": 0
       }
     }
   },
@@ -178,6 +183,11 @@
         "chats": 84,
         "messages": 1630,
         "regenerations": 116
+      },
+      "202503": {
+        "chats": 1,
+        "messages": 46,
+        "regenerations": 3
       }
     }
   },
@@ -220,6 +230,11 @@
         "chats": 53,
         "messages": 864,
         "regenerations": 69
+      },
+      "202503": {
+        "chats": 6,
+        "messages": 101,
+        "regenerations": 19
       }
     }
   },
@@ -261,9 +276,14 @@
         "regenerations": 10
       },
       "202502": {
-        "chats": 32,
+        "chats": 35,
         "messages": 138,
         "regenerations": 4
+      },
+      "202503": {
+        "chats": 2,
+        "messages": 23,
+        "regenerations": 2
       }
     }
   },
@@ -298,9 +318,14 @@
         "regenerations": 14
       },
       "202502": {
-        "chats": 15,
-        "messages": 93,
+        "chats": 16,
+        "messages": 96,
         "regenerations": 1
+      },
+      "202503": {
+        "chats": 1,
+        "messages": 4,
+        "regenerations": 0
       }
     }
   },
@@ -439,11 +464,34 @@
         "regenerations": 3
       },
       "202502": {
-        "chats": 21,
+        "chats": 23,
         "messages": 237,
         "regenerations": 40
+      },
+      "202503": {
+        "chats": 1,
+        "messages": 3,
+        "regenerations": 0
       }
     }
+  },
+  {
+    "id": "XbfXGRisA1Vf7SSihlxe",
+    "title": "a happy family...?",
+    "description": "your name is luna and you have a brother named ace and a mom named violet and a father named william ",
+    "creator": "Happy- dead.",
+    "bots": [
+      "ace-tskogoip",
+      "vioet-bmc77eln",
+      "william-qb53ol5r"
+    ],
+    "scenario": "you walk by the bog as you see your brother hanging out with he's freinds and he invites you to hangout with them as he knew that you ware bored ",
+    "example_dialogues": "william: \"Hey..\"\nviolet: \"you good..?\"\nace: \"Hey luna!\"",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/1wvecQDyv0Y5xLuml2i8mgTxUKK2/pics/073899f1e6e7f62f1327f7600.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=JZTkH8WJODz%2FxCc2OghLohdGSg4JHF7BNejjuDsQDJz%2BLxMT78myKyeMNAMvcyxTwUBF8NMFGGxVUruHrXL6fGVaV6eYS12DtKARw7Gg0y8lCLZxJXP2VaZJRG%2F4Y5sskfWyHTrk%2F%2Bt%2FmAYVzqvMaIw8pxBausXqcDx1Ktgowe7Qhvong5tFp5kJ8ed5lQwdo4eCWXaqC1YWMUp7tT5O3fjpPJd27pTf4g9CXIvCIXE3Qwnz8UrbO4LAUPvZp5nnF4wB9KoVeRe%2Bk0R9pVtNc96Q176l0mk1EcbvX1Fc7N83YIwzBMuZKeurmk5ExS2cEq%2BnqV8rAfO%2FeZq3ai7Crg%3D%3D",
+    "timestamp": 1740895868305,
+    "private": false,
+    "nsfw": true,
+    "status": "public"
   },
   {
     "id": "YcNtSZrQOS3X3NBbp7kf",
@@ -482,6 +530,11 @@
       "202502": {
         "chats": 1,
         "messages": 140,
+        "regenerations": 0
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 2,
         "regenerations": 0
       }
     }
@@ -524,9 +577,14 @@
         "regenerations": 386
       },
       "202502": {
-        "chats": 59,
+        "chats": 60,
         "messages": 585,
         "regenerations": 313
+      },
+      "202503": {
+        "chats": 2,
+        "messages": 0,
+        "regenerations": 0
       }
     }
   },
@@ -690,6 +748,11 @@
         "chats": 14,
         "messages": 232,
         "regenerations": 5
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
       }
     }
   },
@@ -810,9 +873,14 @@
         "regenerations": 46
       },
       "202502": {
-        "chats": 46,
+        "chats": 47,
         "messages": 1316,
         "regenerations": 167
+      },
+      "202503": {
+        "chats": 3,
+        "messages": 15,
+        "regenerations": 12
       }
     }
   },
@@ -857,6 +925,11 @@
         "chats": 113,
         "messages": 3580,
         "regenerations": 883
+      },
+      "202503": {
+        "chats": 3,
+        "messages": 42,
+        "regenerations": 0
       }
     }
   },
@@ -895,6 +968,11 @@
         "chats": 10,
         "messages": 27,
         "regenerations": 2
+      },
+      "202503": {
+        "chats": 1,
+        "messages": 2,
+        "regenerations": 1
       }
     }
   },
@@ -982,6 +1060,11 @@
         "chats": 22,
         "messages": 552,
         "regenerations": 94
+      },
+      "202503": {
+        "chats": 1,
+        "messages": 6,
+        "regenerations": 0
       }
     }
   },
@@ -1066,9 +1149,14 @@
         "regenerations": 0
       },
       "202502": {
-        "chats": 10,
+        "chats": 11,
         "messages": 186,
         "regenerations": 40
+      },
+      "202503": {
+        "chats": 3,
+        "messages": 77,
+        "regenerations": 5
       }
     }
   }
