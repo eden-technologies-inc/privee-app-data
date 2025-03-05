@@ -73,8 +73,8 @@
         "regenerations": 5
       },
       "202503": {
-        "chats": 0,
-        "messages": 18,
+        "chats": 1,
+        "messages": 26,
         "regenerations": 0
       }
     }
@@ -185,9 +185,9 @@
         "regenerations": 116
       },
       "202503": {
-        "chats": 1,
-        "messages": 46,
-        "regenerations": 3
+        "chats": 4,
+        "messages": 90,
+        "regenerations": 8
       }
     }
   },
@@ -232,11 +232,28 @@
         "regenerations": 69
       },
       "202503": {
-        "chats": 6,
-        "messages": 101,
-        "regenerations": 19
+        "chats": 9,
+        "messages": 225,
+        "regenerations": 23
       }
     }
+  },
+  {
+    "id": "KXkcLEHL5Fy1Qp6mTUFB",
+    "title": "the girls",
+    "description": "we talk about girl stuff and have a crush on each other",
+    "creator": "PrivateLearn970",
+    "bots": [
+      "Kaira (Fainted Girl Outside the Club)",
+      "Emily (Your Neighbour)"
+    ],
+    "scenario": "we met one day at a bus station ",
+    "example_dialogues": "Name1: Hey \nName2: How's going? \nName3: Hey!",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/3suN4fqThHaqpNn8qdLAjwyIRHH2/pics/5123535712cdf42699d4d1200.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=UE5aVAE5%2BKJTKwSzc71enTjxSmfQMUtysZh%2Bz50Daztn3w4bb%2BGDoL3iPS2fbjITAbHUrP3v4WngIJDAqZtanxwv7mM9q2wfbbnkIr%2FtTvd4xuz5EZ%2BLHgKo7VMavuRzOHChvfK9LWJeKKyISfdLwjFbgIzJ0o4VUcp32kkELVDqMH3jW37hxo54qO2E8K7XFLABX2ylu0mDDSpCoY1%2FU%2B37C2TmRbaZZnY%2Blq2e8kd%2BfUlWhqch7DtyRN6NQm3mY5%2FuJvGs5Zr6pkgcjxFwt%2FSLcyO460NEElEJDl1D%2BJTXkqf5VpOPUCEMs9%2Bq5PgMyexwDtTUSCfFR3Cyz4uFGA%3D%3D",
+    "timestamp": 1741123592804,
+    "private": false,
+    "nsfw": true,
+    "status": "public"
   },
   {
     "id": "KaW4VcHqY8mnYzw37miP",
@@ -281,8 +298,8 @@
         "regenerations": 4
       },
       "202503": {
-        "chats": 2,
-        "messages": 23,
+        "chats": 5,
+        "messages": 44,
         "regenerations": 2
       }
     }
@@ -372,6 +389,24 @@
         "regenerations": 2
       }
     }
+  },
+  {
+    "id": "Sdd03AGlveVnCfHl3p4v",
+    "title": "Ninja Turtles",
+    "description": "its up to you to help them",
+    "creator": "Jenna0rtega",
+    "bots": [
+      "leonardo-u4jpdpfb",
+      "donatello-d4p19qjc",
+      "michelangelo-7ii646xt"
+    ],
+    "scenario": "after superfly, a evil warrior named: splinter comes along and tries to fight the turtles",
+    "example_dialogues": "Name1: Hey \nName2: How's going? \nName3: Hey!",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/44wbXkeHOCOOetE1pcNA5IvH9C33/pics/09980f2da99dabc0f3d029700.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=Po78FpJC52H023ZluSN58pr0kWQ%2FOoGfdtMHRBbUyxq%2B0Pb7Vrl%2BRcir30uw6GeFSpOTWIxmvc6NNNYh51wdm9yTKFWgBhSirzYwplQeK4UksXW88tLVND%2BdTuj1NBI2OZIzJcYMJlh2fY0fTsIOmthGEIfaK%2BUdpyh2OkGpymaonhmmzFE0YncXprrnf7IkL82Ce0ZDyDhpmhhPsuZAEPbjO3Kh3RQISfVq6i4oDrVrRSvadart%2BGxnLJ3UHXLTvUB%2FeLWCE4A7ieLQjmeVr8JgaGE4gfdVCh%2F%2FLy0td0UzG3VJ2jtIiQ6Vl61fQZ1gZRCfja5K5QW7qtZ2cb6JAw%3D%3D",
+    "timestamp": 1741174825219,
+    "private": false,
+    "nsfw": false,
+    "status": "public"
   },
   {
     "id": "ShruTuepfKiQpdlUBSJn",
@@ -533,8 +568,8 @@
         "regenerations": 0
       },
       "202503": {
-        "chats": 0,
-        "messages": 2,
+        "chats": 2,
+        "messages": 3,
         "regenerations": 0
       }
     }
@@ -582,8 +617,8 @@
         "regenerations": 313
       },
       "202503": {
-        "chats": 2,
-        "messages": 0,
+        "chats": 10,
+        "messages": 4,
         "regenerations": 0
       }
     }
@@ -662,6 +697,11 @@
         "chats": 1,
         "messages": 22,
         "regenerations": 30
+      },
+      "202503": {
+        "chats": 2,
+        "messages": 10,
+        "regenerations": 0
       }
     }
   },
@@ -878,7 +918,7 @@
         "regenerations": 167
       },
       "202503": {
-        "chats": 3,
+        "chats": 5,
         "messages": 15,
         "regenerations": 12
       }
@@ -927,9 +967,9 @@
         "regenerations": 883
       },
       "202503": {
-        "chats": 3,
-        "messages": 42,
-        "regenerations": 0
+        "chats": 11,
+        "messages": 213,
+        "regenerations": 20
       }
     }
   },
@@ -970,7 +1010,7 @@
         "regenerations": 2
       },
       "202503": {
-        "chats": 1,
+        "chats": 2,
         "messages": 2,
         "regenerations": 1
       }
@@ -1154,8 +1194,8 @@
         "regenerations": 40
       },
       "202503": {
-        "chats": 3,
-        "messages": 77,
+        "chats": 5,
+        "messages": 108,
         "regenerations": 5
       }
     }
