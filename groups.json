@@ -142,6 +142,11 @@
         "chats": 1,
         "messages": 35,
         "regenerations": 0
+      },
+      "202503": {
+        "chats": 1,
+        "messages": 3,
+        "regenerations": 0
       }
     }
   },
@@ -185,7 +190,7 @@
         "regenerations": 116
       },
       "202503": {
-        "chats": 11,
+        "chats": 12,
         "messages": 187,
         "regenerations": 14
       }
@@ -232,8 +237,8 @@
         "regenerations": 69
       },
       "202503": {
-        "chats": 10,
-        "messages": 226,
+        "chats": 11,
+        "messages": 252,
         "regenerations": 24
       }
     }
@@ -298,8 +303,8 @@
         "regenerations": 4
       },
       "202503": {
-        "chats": 5,
-        "messages": 44,
+        "chats": 6,
+        "messages": 47,
         "regenerations": 2
       }
     }
@@ -617,7 +622,7 @@
         "regenerations": 313
       },
       "202503": {
-        "chats": 11,
+        "chats": 13,
         "messages": 29,
         "regenerations": 0
       }
@@ -661,6 +666,11 @@
         "chats": 0,
         "messages": 3,
         "regenerations": 0
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
       }
     }
   },
@@ -699,9 +709,9 @@
         "regenerations": 30
       },
       "202503": {
-        "chats": 3,
-        "messages": 10,
-        "regenerations": 0
+        "chats": 4,
+        "messages": 43,
+        "regenerations": 3
       }
     }
   },
@@ -833,6 +843,11 @@
         "chats": 1,
         "messages": 38,
         "regenerations": 1
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
       }
     }
   },
@@ -918,7 +933,7 @@
         "regenerations": 167
       },
       "202503": {
-        "chats": 6,
+        "chats": 8,
         "messages": 39,
         "regenerations": 14
       }
@@ -967,8 +982,8 @@
         "regenerations": 883
       },
       "202503": {
-        "chats": 13,
-        "messages": 308,
+        "chats": 15,
+        "messages": 315,
         "regenerations": 34
       }
     }
@@ -1107,7 +1122,7 @@
         "regenerations": 94
       },
       "202503": {
-        "chats": 1,
+        "chats": 2,
         "messages": 6,
         "regenerations": 0
       }
