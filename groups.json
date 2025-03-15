@@ -114,6 +114,11 @@
         "chats": 4,
         "messages": 115,
         "regenerations": 6
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 2,
+        "regenerations": 0
       }
     }
   },
@@ -172,6 +177,7 @@
     ],
     "chats": 311,
     "messages": 4246,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Wed%20Jun%2012%202024%2008%3A51%3A43%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp",
     "stats": {
       "202412": {
         "chats": 103,
@@ -189,12 +195,11 @@
         "regenerations": 116
       },
       "202503": {
-        "chats": 13,
-        "messages": 187,
-        "regenerations": 14
+        "chats": 23,
+        "messages": 254,
+        "regenerations": 20
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Wed%20Jun%2012%202024%2008%3A51%3A43%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp"
+    }
   },
   {
     "id": "Eyo4ia4nNShxz6WSJWWz",
@@ -219,6 +224,7 @@
     ],
     "chats": 222,
     "messages": 3161,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Sun%20Apr%2014%202024%2008%3A08%3A09%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp",
     "stats": {
       "202412": {
         "chats": 74,
@@ -236,12 +242,11 @@
         "regenerations": 69
       },
       "202503": {
-        "chats": 11,
-        "messages": 252,
-        "regenerations": 24
+        "chats": 15,
+        "messages": 414,
+        "regenerations": 41
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Sun%20Apr%2014%202024%2008%3A08%3A09%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp"
+    }
   },
   {
     "id": "KXkcLEHL5Fy1Qp6mTUFB",
@@ -258,7 +263,19 @@
     "private": false,
     "nsfw": true,
     "status": "public",
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/3suN4fqThHaqpNn8qdLAjwyIRHH2/pics/5123535712cdf42699d4d1200.webp"
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/3suN4fqThHaqpNn8qdLAjwyIRHH2/pics/5123535712cdf42699d4d1200.webp",
+    "stats": {
+      "202412": {
+        "chats": 0,
+        "messages": 0,
+        "regenerations": 0
+      },
+      "202503": {
+        "chats": 2,
+        "messages": 13,
+        "regenerations": 2
+      }
+    }
   },
   {
     "id": "KaW4VcHqY8mnYzw37miP",
@@ -303,8 +320,8 @@
         "regenerations": 4
       },
       "202503": {
-        "chats": 6,
-        "messages": 47,
+        "chats": 10,
+        "messages": 52,
         "regenerations": 2
       }
     }
@@ -327,6 +344,7 @@
     ],
     "chats": 62,
     "messages": 275,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Wed%20Jun%2019%202024%2015%3A32%3A22%20GMT%2B0200%20%28Central%20European%20Summer%20Time%29.webp",
     "stats": {
       "202412": {
         "chats": 20,
@@ -344,12 +362,11 @@
         "regenerations": 1
       },
       "202503": {
-        "chats": 1,
-        "messages": 4,
+        "chats": 3,
+        "messages": 37,
         "regenerations": 0
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Wed%20Jun%2019%202024%2015%3A32%3A22%20GMT%2B0200%20%28Central%20European%20Summer%20Time%29.webp"
+    }
   },
   {
     "id": "MDpgAHkk8iztbcYYnFJ9",
@@ -392,6 +409,11 @@
         "chats": 0,
         "messages": 31,
         "regenerations": 2
+      },
+      "202503": {
+        "chats": 3,
+        "messages": 42,
+        "regenerations": 10
       }
     }
   },
@@ -411,7 +433,19 @@
     "private": false,
     "nsfw": false,
     "status": "public",
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/44wbXkeHOCOOetE1pcNA5IvH9C33/pics/09980f2da99dabc0f3d029700.webp"
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/44wbXkeHOCOOetE1pcNA5IvH9C33/pics/09980f2da99dabc0f3d029700.webp",
+    "stats": {
+      "202412": {
+        "chats": 0,
+        "messages": 0,
+        "regenerations": 0
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
+      }
+    }
   },
   {
     "id": "ShruTuepfKiQpdlUBSJn",
@@ -509,8 +543,8 @@
         "regenerations": 40
       },
       "202503": {
-        "chats": 1,
-        "messages": 3,
+        "chats": 2,
+        "messages": 13,
         "regenerations": 0
       }
     }
@@ -573,7 +607,7 @@
         "regenerations": 0
       },
       "202503": {
-        "chats": 3,
+        "chats": 4,
         "messages": 4,
         "regenerations": 0
       }
@@ -622,9 +656,9 @@
         "regenerations": 313
       },
       "202503": {
-        "chats": 13,
-        "messages": 29,
-        "regenerations": 0
+        "chats": 18,
+        "messages": 80,
+        "regenerations": 12
       }
     }
   },
@@ -739,6 +773,7 @@
     ],
     "messages": 62,
     "chats": 10,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Mon%20Apr%2008%202024%2010%3A30%3A52%20GMT%2B0200%20%28Ora%20legale%20dell%E2%80%99Europa%20centrale%29.webp",
     "stats": {
       "202412": {
         "chats": 3,
@@ -754,9 +789,13 @@
         "chats": 3,
         "messages": 96,
         "regenerations": 17
+      },
+      "202503": {
+        "chats": 2,
+        "messages": 49,
+        "regenerations": 1
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Mon%20Apr%2008%202024%2010%3A30%3A52%20GMT%2B0200%20%28Ora%20legale%20dell%E2%80%99Europa%20centrale%29.webp"
+    }
   },
   {
     "id": "jX6Lt8Hn3HcbE2kWEOQz",
@@ -782,6 +821,7 @@
     ],
     "messages": 931,
     "chats": 134,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Sun%20Apr%2014%202024%2008%3A38%3A00%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp",
     "stats": {
       "202412": {
         "chats": 44,
@@ -799,12 +839,11 @@
         "regenerations": 5
       },
       "202503": {
-        "chats": 0,
-        "messages": 1,
+        "chats": 2,
+        "messages": 15,
         "regenerations": 0
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Sun%20Apr%2014%202024%2008%3A38%3A00%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp"
+    }
   },
   {
     "id": "kWNp4u36a0x3QSA6N4fP",
@@ -915,6 +954,7 @@
     "situations": [],
     "chats": 229,
     "messages": 2674,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Thu%20Jun%2020%202024%2016%3A27%3A21%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp",
     "stats": {
       "202412": {
         "chats": 76,
@@ -932,12 +972,11 @@
         "regenerations": 167
       },
       "202503": {
-        "chats": 8,
-        "messages": 39,
+        "chats": 9,
+        "messages": 41,
         "regenerations": 14
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Thu%20Jun%2020%202024%2016%3A27%3A21%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp"
+    }
   },
   {
     "id": "qYq3oiZN5XnkLkHJAMyt",
@@ -982,9 +1021,9 @@
         "regenerations": 883
       },
       "202503": {
-        "chats": 16,
-        "messages": 337,
-        "regenerations": 44
+        "chats": 24,
+        "messages": 596,
+        "regenerations": 80
       }
     }
   },
@@ -1007,6 +1046,7 @@
     ],
     "chats": 129,
     "messages": 765,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Wed%20Jun%2012%202024%2008%3A51%3A43%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp",
     "stats": {
       "202412": {
         "chats": 43,
@@ -1024,12 +1064,11 @@
         "regenerations": 2
       },
       "202503": {
-        "chats": 2,
-        "messages": 2,
-        "regenerations": 1
+        "chats": 3,
+        "messages": 13,
+        "regenerations": 4
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//pictures/dSotbc90wjQnMHILNUkS1Q4Etj62/Wed%20Jun%2012%202024%2008%3A51%3A43%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp"
+    }
   },
   {
     "id": "sNL71NIHCoYreyUD5Nk5",
@@ -1123,7 +1162,7 @@
       },
       "202503": {
         "chats": 2,
-        "messages": 6,
+        "messages": 7,
         "regenerations": 0
       }
     }
@@ -1144,6 +1183,23 @@
     "nsfw": false,
     "status": "public",
     "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/hev2EP1Jk1eH6pjTyv4RjkZljxi1/pics/d0e3461b635ee3afde4f52401.webp"
+  },
+  {
+    "id": "y7uM4w3vVCXYV4VGCu4g",
+    "title": "Private lovers",
+    "description": "These two lovers are whispering and they don't know you've overhearing.",
+    "creator": "reese",
+    "bots": [
+      "alice-cullen-53gathoz",
+      "mattv-72p27c33"
+    ],
+    "scenario": "These two lovers are whispering and they don't know you've overhearing. They tell dirty stuff to each other, they talk about private things. They reveal their deepest fears and private things.",
+    "example_dialogues": "Alice: I've never been in love like this\nMatt: me too\nAlice: I love when you touch my lips with your tips",
+    "timestamp": 1738355284572,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/xCE8yE9QGFd1DAvOncleqPs63M32/pics/2ce575abedb71b41cdcd85300.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=VWV%2BJLl06%2BuyJDXwT0CdlffrwRwjRhoVTEIfbzNnpDjbENzwn%2B%2FhBgwcH46EqHufEQJeH4jKsllhdSc%2BXWwoC0h7j54HhtQpEo%2FTzqZ15ps%2F0GSKOjAQLPXBYeL%2FPoKf9Ohg7iYSoV0TINApHeeqpQKSMLroEVVUUC9m%2BaFoKDMQwNmPGypIsgPO0DHH8h2KlUy3MRWaoYgmJhLB8E52W7na6rur3F00xa3PtMDQVPTgFBr3mPKmJoBRaWll8vkVeBEUsYlY9afnLutgD%2BPE9dTQuu3qQb4bhnJqZk8H2SaMrBx8FU46WseQYyaOCeEW5FsDsTMi5TqCdh%2F29RUwzQ%3D%3D",
+    "private": false,
+    "nsfw": false,
+    "status": "public"
   },
   {
     "id": "zZQHreApgVyEBZ5HT4MI",
@@ -1167,6 +1223,7 @@
     ],
     "messages": 988,
     "chats": 99,
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//bots/dSotbc90wjQnMHILNUkS1Q4Etj62/Fri%20Apr%2005%202024%2012%3A34%3A01%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp",
     "stats": {
       "202412": {
         "chats": 33,
@@ -1185,10 +1242,9 @@
       },
       "202503": {
         "chats": 5,
-        "messages": 108,
-        "regenerations": 5
+        "messages": 110,
+        "regenerations": 6
       }
-    },
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com//bots/dSotbc90wjQnMHILNUkS1Q4Etj62/Fri%20Apr%2005%202024%2012%3A34%3A01%20GMT%2B0000%20%28Coordinated%20Universal%20Time%29.webp"
+    }
   }
 ]
