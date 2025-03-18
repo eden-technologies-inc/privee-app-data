@@ -195,8 +195,8 @@
         "regenerations": 116
       },
       "202503": {
-        "chats": 23,
-        "messages": 254,
+        "chats": 26,
+        "messages": 324,
         "regenerations": 20
       }
     }
@@ -242,9 +242,9 @@
         "regenerations": 69
       },
       "202503": {
-        "chats": 15,
-        "messages": 414,
-        "regenerations": 41
+        "chats": 20,
+        "messages": 621,
+        "regenerations": 126
       }
     }
   },
@@ -271,9 +271,9 @@
         "regenerations": 0
       },
       "202503": {
-        "chats": 2,
-        "messages": 13,
-        "regenerations": 2
+        "chats": 3,
+        "messages": 24,
+        "regenerations": 6
       }
     }
   },
@@ -321,7 +321,7 @@
       },
       "202503": {
         "chats": 10,
-        "messages": 52,
+        "messages": 54,
         "regenerations": 2
       }
     }
@@ -543,8 +543,8 @@
         "regenerations": 40
       },
       "202503": {
-        "chats": 2,
-        "messages": 13,
+        "chats": 3,
+        "messages": 20,
         "regenerations": 0
       }
     }
@@ -607,7 +607,7 @@
         "regenerations": 0
       },
       "202503": {
-        "chats": 4,
+        "chats": 6,
         "messages": 4,
         "regenerations": 0
       }
@@ -656,9 +656,9 @@
         "regenerations": 313
       },
       "202503": {
-        "chats": 18,
-        "messages": 80,
-        "regenerations": 12
+        "chats": 24,
+        "messages": 129,
+        "regenerations": 37
       }
     }
   },
@@ -839,7 +839,7 @@
         "regenerations": 5
       },
       "202503": {
-        "chats": 2,
+        "chats": 4,
         "messages": 15,
         "regenerations": 0
       }
@@ -972,9 +972,9 @@
         "regenerations": 167
       },
       "202503": {
-        "chats": 9,
-        "messages": 41,
-        "regenerations": 14
+        "chats": 13,
+        "messages": 98,
+        "regenerations": 19
       }
     }
   },
@@ -1021,7 +1021,7 @@
         "regenerations": 883
       },
       "202503": {
-        "chats": 24,
+        "chats": 27,
         "messages": 596,
         "regenerations": 80
       }
@@ -1113,7 +1113,7 @@
       },
       "202503": {
         "chats": 0,
-        "messages": 8,
+        "messages": 9,
         "regenerations": 0
       }
     }
@@ -1161,9 +1161,9 @@
         "regenerations": 94
       },
       "202503": {
-        "chats": 2,
-        "messages": 7,
-        "regenerations": 0
+        "chats": 3,
+        "messages": 145,
+        "regenerations": 5
       }
     }
   },
@@ -1199,7 +1199,19 @@
     "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/xCE8yE9QGFd1DAvOncleqPs63M32/pics/2ce575abedb71b41cdcd85300.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=VWV%2BJLl06%2BuyJDXwT0CdlffrwRwjRhoVTEIfbzNnpDjbENzwn%2B%2FhBgwcH46EqHufEQJeH4jKsllhdSc%2BXWwoC0h7j54HhtQpEo%2FTzqZ15ps%2F0GSKOjAQLPXBYeL%2FPoKf9Ohg7iYSoV0TINApHeeqpQKSMLroEVVUUC9m%2BaFoKDMQwNmPGypIsgPO0DHH8h2KlUy3MRWaoYgmJhLB8E52W7na6rur3F00xa3PtMDQVPTgFBr3mPKmJoBRaWll8vkVeBEUsYlY9afnLutgD%2BPE9dTQuu3qQb4bhnJqZk8H2SaMrBx8FU46WseQYyaOCeEW5FsDsTMi5TqCdh%2F29RUwzQ%3D%3D",
     "private": false,
     "nsfw": false,
-    "status": "public"
+    "status": "public",
+    "stats": {
+      "202412": {
+        "chats": 0,
+        "messages": 0,
+        "regenerations": 0
+      },
+      "202503": {
+        "chats": 0,
+        "messages": 12,
+        "regenerations": 2
+      }
+    }
   },
   {
     "id": "zZQHreApgVyEBZ5HT4MI",
