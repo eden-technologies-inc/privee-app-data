@@ -116,7 +116,7 @@
         "regenerations": 6
       },
       "202503": {
-        "chats": 5,
+        "chats": 6,
         "messages": 48,
         "regenerations": 1
       }
@@ -149,8 +149,8 @@
         "regenerations": 0
       },
       "202503": {
-        "chats": 2,
-        "messages": 9,
+        "chats": 3,
+        "messages": 22,
         "regenerations": 0
       }
     }
@@ -195,9 +195,14 @@
         "regenerations": 116
       },
       "202503": {
-        "chats": 30,
-        "messages": 354,
+        "chats": 37,
+        "messages": 418,
         "regenerations": 25
+      },
+      "202504": {
+        "chats": 3,
+        "messages": 89,
+        "regenerations": 3
       }
     }
   },
@@ -242,9 +247,14 @@
         "regenerations": 69
       },
       "202503": {
-        "chats": 22,
-        "messages": 622,
-        "regenerations": 126
+        "chats": 34,
+        "messages": 717,
+        "regenerations": 172
+      },
+      "202504": {
+        "chats": 18,
+        "messages": 394,
+        "regenerations": 29
       }
     }
   },
@@ -271,9 +281,14 @@
         "regenerations": 0
       },
       "202503": {
-        "chats": 11,
-        "messages": 96,
-        "regenerations": 23
+        "chats": 13,
+        "messages": 109,
+        "regenerations": 29
+      },
+      "202504": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
       }
     }
   },
@@ -320,9 +335,14 @@
         "regenerations": 4
       },
       "202503": {
-        "chats": 13,
-        "messages": 56,
+        "chats": 15,
+        "messages": 69,
         "regenerations": 2
+      },
+      "202504": {
+        "chats": 0,
+        "messages": 13,
+        "regenerations": 1
       }
     }
   },
@@ -362,8 +382,13 @@
         "regenerations": 1
       },
       "202503": {
-        "chats": 4,
-        "messages": 60,
+        "chats": 5,
+        "messages": 61,
+        "regenerations": 0
+      },
+      "202504": {
+        "chats": 0,
+        "messages": 1,
         "regenerations": 0
       }
     }
@@ -411,11 +436,29 @@
         "regenerations": 2
       },
       "202503": {
-        "chats": 3,
-        "messages": 48,
-        "regenerations": 11
+        "chats": 5,
+        "messages": 68,
+        "regenerations": 14
       }
     }
+  },
+  {
+    "id": "RIVmPVpirYAERvwU8QJt",
+    "title": "Borderlands",
+    "description": "Borderlands 4 on Steam. Borderlands 4 is a mayhem-fueled looter shooter, jam-packed with billions of weapons, outrageous enemies, and intense co-op action.  action role-playing first-person looter-shooter video game franchise set in a space Western science fantasy setting The game's story focuses on a group of four \"Vault Hunters\", who travel to the distant planet of Pandora to search for the \"Vault\", which is rumored to ",
+    "creator": "Rhys/lucifer",
+    "bots": [
+      "angel-ne0di56j",
+      "brick-ss8ou1of",
+      "claptrap-robot-1hpdtg96"
+    ],
+    "scenario": "The game's story focuses on a group of four \"Vault Hunters\", who travel to the distant planet of Pandora to search for the \"Vault\", which is rumored to ",
+    "example_dialogues": "Hanadsome jack: it’ cute that y’a think you the heros of this li adventure but You‘er not welcome to Pandora. Kiddos *boMb goes off in train*\nBrick: Yo y gu heard that?\nZane: Bloody who was this time",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/ZK31gJ843tf8Ws2QdxDOG3f7KWI3/pics/b97798958123b47e4863e6d00.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=FaP3dCUHPrrzEiN6J8tMedCU5okc0cmEalkb8Z2bcoMUCAHfvYcnDFueSrh%2B1eohuoZVvSLMZwa9Ivw384Yug%2FUwpLLFGQntP9PKII0vCjIXCPuLmcihMrVXUNJmCn%2B%2BpUxJ8fS8E2TQqOaKhAZsaK7X45bL2g5dafzT07MTThsyV%2BQiDUhcgINmbsivUvAB%2BtMVzgiw3BRKpdcIX2VjLO3EkCvuLpyRYP2It%2BbwZyncH%2FS0uCYHFcdWXVUIDFKaRniW1zKCr3Cp1cYvuizMp0H1VDe0Of5gt5OZFxbK2CCIPYZn%2BIOQa4VbI5huWh7cTVK2FncWduwOG3oESl5z8g%3D%3D",
+    "timestamp": 1743230033447,
+    "private": false,
+    "nsfw": true,
+    "status": "public"
   },
   {
     "id": "Sdd03AGlveVnCfHl3p4v",
@@ -485,6 +528,11 @@
         "chats": 9,
         "messages": 57,
         "regenerations": 1
+      },
+      "202504": {
+        "chats": 0,
+        "messages": 5,
+        "regenerations": 0
       }
     }
   },
@@ -543,7 +591,7 @@
         "regenerations": 40
       },
       "202503": {
-        "chats": 10,
+        "chats": 11,
         "messages": 56,
         "regenerations": 2
       }
@@ -656,9 +704,14 @@
         "regenerations": 313
       },
       "202503": {
-        "chats": 31,
-        "messages": 204,
-        "regenerations": 77
+        "chats": 34,
+        "messages": 224,
+        "regenerations": 103
+      },
+      "202504": {
+        "chats": 3,
+        "messages": 18,
+        "regenerations": 6
       }
     }
   },
@@ -743,9 +796,14 @@
         "regenerations": 30
       },
       "202503": {
-        "chats": 4,
+        "chats": 5,
         "messages": 43,
         "regenerations": 3
+      },
+      "202504": {
+        "chats": 1,
+        "messages": 0,
+        "regenerations": 0
       }
     }
   },
@@ -791,9 +849,14 @@
         "regenerations": 17
       },
       "202503": {
-        "chats": 3,
-        "messages": 49,
-        "regenerations": 1
+        "chats": 6,
+        "messages": 79,
+        "regenerations": 20
+      },
+      "202504": {
+        "chats": 4,
+        "messages": 2,
+        "regenerations": 0
       }
     }
   },
@@ -839,9 +902,14 @@
         "regenerations": 5
       },
       "202503": {
-        "chats": 7,
+        "chats": 9,
         "messages": 54,
         "regenerations": 1
+      },
+      "202504": {
+        "chats": 1,
+        "messages": 0,
+        "regenerations": 0
       }
     }
   },
@@ -930,6 +998,11 @@
         "chats": 1,
         "messages": 62,
         "regenerations": 4
+      },
+      "202504": {
+        "chats": 1,
+        "messages": 4,
+        "regenerations": 6
       }
     }
   },
@@ -972,9 +1045,14 @@
         "regenerations": 167
       },
       "202503": {
-        "chats": 16,
-        "messages": 157,
-        "regenerations": 27
+        "chats": 24,
+        "messages": 368,
+        "regenerations": 43
+      },
+      "202504": {
+        "chats": 3,
+        "messages": 2,
+        "regenerations": 0
       }
     }
   },
@@ -1021,9 +1099,14 @@
         "regenerations": 883
       },
       "202503": {
-        "chats": 34,
-        "messages": 659,
+        "chats": 40,
+        "messages": 715,
         "regenerations": 94
+      },
+      "202504": {
+        "chats": 11,
+        "messages": 138,
+        "regenerations": 35
       }
     }
   },
@@ -1064,9 +1147,14 @@
         "regenerations": 2
       },
       "202503": {
-        "chats": 5,
-        "messages": 13,
-        "regenerations": 4
+        "chats": 6,
+        "messages": 37,
+        "regenerations": 12
+      },
+      "202504": {
+        "chats": 1,
+        "messages": 0,
+        "regenerations": 0
       }
     }
   },
@@ -1161,11 +1249,34 @@
         "regenerations": 94
       },
       "202503": {
+        "chats": 10,
+        "messages": 245,
+        "regenerations": 16
+      },
+      "202504": {
         "chats": 3,
-        "messages": 145,
-        "regenerations": 5
+        "messages": 19,
+        "regenerations": 2
       }
     }
+  },
+  {
+    "id": "w66MBOrAJzxqcXyMjWzI",
+    "title": "only girls world",
+    "description": "they dont know anything about sex",
+    "creator": "LightCome661",
+    "bots": [
+      "alex,-your-sister's-wife.-52ed4rq6",
+      "alice-78f14nje",
+      "ali-12xo5kwb"
+    ],
+    "scenario": "we travel to a world were only girls exsist",
+    "example_dialogues": "Name1: Hey \nName2: How's going? \nName3: Hey!",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/WsmMV8pBnVVTXuSlnk5AwbEmNFS2/pics/e9f9db4d9dd0eaa545c310405.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=UcXuoXIOfBceho8C0nlrq29Rkg4UeZDNHsmkGRRdUzDgJBwN7sx9NVFp%2Fl3LWDKR9tnFRaGgVxXVkjl1fhGfMHa5TjlkSCeVrx54yhMyR%2BUHHQJ1RJv1CwmGxi064rhT2Ah0RoONaSWVrzIAXv7VB6Uze7nrZngsL6rzFwbU4yEJe%2FHskFJxcfUvwTzyCjaih3A3vRoU20OgAgoInii2peSE%2FugV08oZeibkWhSBaaX0lBdiOvHWTBTUL0xu3xv8TVO4jBaA3cXMHur1i8uQGZXaLyjx%2FuY7TicsYV9vIhooShtjxPDMzcPFDCuAX6rM5Z8j1FZH14prvT67F0wf5w%3D%3D",
+    "timestamp": 1743856951791,
+    "private": false,
+    "nsfw": true,
+    "status": "public"
   },
   {
     "id": "xHq8lbvDqaZbDXEUIIyU",
@@ -1253,9 +1364,14 @@
         "regenerations": 40
       },
       "202503": {
-        "chats": 6,
-        "messages": 110,
+        "chats": 8,
+        "messages": 144,
         "regenerations": 6
+      },
+      "202504": {
+        "chats": 0,
+        "messages": 5,
+        "regenerations": 0
       }
     }
   }
