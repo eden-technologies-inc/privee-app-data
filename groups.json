@@ -76,6 +76,11 @@
         "chats": 1,
         "messages": 26,
         "regenerations": 0
+      },
+      "202504": {
+        "chats": 1,
+        "messages": 28,
+        "regenerations": 1
       }
     }
   },
@@ -119,6 +124,11 @@
         "chats": 6,
         "messages": 48,
         "regenerations": 1
+      },
+      "202504": {
+        "chats": 1,
+        "messages": 10,
+        "regenerations": 1
       }
     }
   },
@@ -155,7 +165,7 @@
       },
       "202504": {
         "chats": 1,
-        "messages": 4,
+        "messages": 10,
         "regenerations": 0
       }
     }
@@ -205,9 +215,9 @@
         "regenerations": 25
       },
       "202504": {
-        "chats": 6,
-        "messages": 120,
-        "regenerations": 4
+        "chats": 17,
+        "messages": 187,
+        "regenerations": 12
       }
     }
   },
@@ -257,9 +267,9 @@
         "regenerations": 172
       },
       "202504": {
-        "chats": 43,
-        "messages": 547,
-        "regenerations": 64
+        "chats": 53,
+        "messages": 994,
+        "regenerations": 111
       }
     }
   },
@@ -291,9 +301,9 @@
         "regenerations": 29
       },
       "202504": {
-        "chats": 1,
-        "messages": 5,
-        "regenerations": 0
+        "chats": 14,
+        "messages": 133,
+        "regenerations": 18
       }
     }
   },
@@ -345,9 +355,9 @@
         "regenerations": 2
       },
       "202504": {
-        "chats": 6,
-        "messages": 20,
-        "regenerations": 2
+        "chats": 12,
+        "messages": 97,
+        "regenerations": 10
       }
     }
   },
@@ -393,7 +403,7 @@
       },
       "202504": {
         "chats": 3,
-        "messages": 22,
+        "messages": 36,
         "regenerations": 0
       }
     }
@@ -606,7 +616,7 @@
         "regenerations": 2
       },
       "202504": {
-        "chats": 1,
+        "chats": 2,
         "messages": 2,
         "regenerations": 1
       }
@@ -673,6 +683,11 @@
         "chats": 6,
         "messages": 5,
         "regenerations": 0
+      },
+      "202504": {
+        "chats": 2,
+        "messages": 2,
+        "regenerations": 0
       }
     }
   },
@@ -724,9 +739,9 @@
         "regenerations": 103
       },
       "202504": {
-        "chats": 24,
-        "messages": 264,
-        "regenerations": 450
+        "chats": 27,
+        "messages": 272,
+        "regenerations": 451
       }
     }
   },
@@ -922,9 +937,9 @@
         "regenerations": 1
       },
       "202504": {
-        "chats": 1,
-        "messages": 6,
-        "regenerations": 0
+        "chats": 6,
+        "messages": 49,
+        "regenerations": 3
       }
     }
   },
@@ -1022,6 +1037,24 @@
     }
   },
   {
+    "id": "niRrwkz8Iei7spdLZDyc",
+    "title": "All of the Demon slayer girls ",
+    "description": "All of the female characters from demon slayer ",
+    "creator": "CreamBurn132",
+    "bots": [
+      "class-1-a-uuupog7y",
+      "komi-nusawki-9ydc6l8t",
+      "Makima"
+    ],
+    "scenario": "a whole group chat of horny girls wanting sex ",
+    "example_dialogues": "Name1: Hey \nName2: How's going? \nName3: Hey!",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/UcIi30lelOXo9zUkoEKHb43DtoQ2/pics/4fc4790eec7a2974ed2405404.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=H3J%2BbHfzOT6L8ZFjxO7AMmtZTtQGuoSv1Aaz1T9s%2FNlvevOxnRW6OKzspOYIIAPL6Jl2748V7zwp%2FPQoSA%2FJeli7d8K%2B4lNizUPALxQ9QRlQauNQbCuy7r6NAObl20zunQlIYshmCdHwg5dF3lOsF9izAqO2GPx%2BGtCKK%2BNcZijaWQJsF51bDyH6t2RJrAic3q3kGAbyIEyPkI2X%2B1zo5dsdXzBPZH8dwCJNhy9Iqab5hv1NOE2ZPGA0vjMHkp03QRKhbnxQCbXwSHEFyqzV2pJxa5ZoKJXgZzMEdU0JaZQyFocPhoYWIBP6ZUHb5akndJvNsKGsW%2FvBTqdG9yF5zw%3D%3D",
+    "timestamp": 1744908212712,
+    "private": false,
+    "nsfw": false,
+    "status": "public"
+  },
+  {
     "id": "q5qgIgGrVFXezatxX0jk",
     "creator": "privee.ai",
     "bots": [
@@ -1065,9 +1098,9 @@
         "regenerations": 43
       },
       "202504": {
-        "chats": 8,
-        "messages": 113,
-        "regenerations": 36
+        "chats": 11,
+        "messages": 422,
+        "regenerations": 115
       }
     }
   },
@@ -1119,9 +1152,9 @@
         "regenerations": 94
       },
       "202504": {
-        "chats": 19,
-        "messages": 344,
-        "regenerations": 57
+        "chats": 32,
+        "messages": 785,
+        "regenerations": 63
       }
     }
   },
@@ -1167,7 +1200,7 @@
         "regenerations": 12
       },
       "202504": {
-        "chats": 4,
+        "chats": 5,
         "messages": 3,
         "regenerations": 0
       }
@@ -1269,9 +1302,9 @@
         "regenerations": 16
       },
       "202504": {
-        "chats": 3,
-        "messages": 19,
-        "regenerations": 2
+        "chats": 8,
+        "messages": 143,
+        "regenerations": 30
       }
     }
   },
@@ -1300,7 +1333,7 @@
       },
       "202504": {
         "chats": 0,
-        "messages": 1,
+        "messages": 17,
         "regenerations": 0
       }
     }
@@ -1401,9 +1434,9 @@
         "regenerations": 6
       },
       "202504": {
-        "chats": 1,
-        "messages": 5,
-        "regenerations": 0
+        "chats": 5,
+        "messages": 278,
+        "regenerations": 206
       }
     }
   }
