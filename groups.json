@@ -246,7 +246,7 @@
       },
       "202506": {
         "chats": 7,
-        "messages": 67,
+        "messages": 70,
         "regenerations": 1
       }
     }
@@ -325,9 +325,9 @@
         "regenerations": 32
       },
       "202506": {
-        "chats": 10,
-        "messages": 74,
-        "regenerations": 0
+        "chats": 17,
+        "messages": 150,
+        "regenerations": 21
       }
     }
   },
@@ -358,6 +358,11 @@
         "chats": 1,
         "messages": 16,
         "regenerations": 0
+      },
+      "202506": {
+        "chats": 0,
+        "messages": 102,
+        "regenerations": 31
       }
     }
   },
@@ -399,8 +404,8 @@
         "regenerations": 15
       },
       "202506": {
-        "chats": 6,
-        "messages": 0,
+        "chats": 9,
+        "messages": 8,
         "regenerations": 0
       }
     }
@@ -463,9 +468,9 @@
         "regenerations": 5
       },
       "202506": {
-        "chats": 3,
-        "messages": 54,
-        "regenerations": 0
+        "chats": 4,
+        "messages": 58,
+        "regenerations": 1
       }
     }
   },
@@ -520,7 +525,7 @@
         "regenerations": 0
       },
       "202506": {
-        "chats": 1,
+        "chats": 2,
         "messages": 1,
         "regenerations": 0
       }
@@ -580,7 +585,7 @@
       },
       "202506": {
         "chats": 6,
-        "messages": 143,
+        "messages": 144,
         "regenerations": 25
       }
     }
@@ -686,6 +691,11 @@
         "chats": 0,
         "messages": 11,
         "regenerations": 0
+      },
+      "202506": {
+        "chats": 0,
+        "messages": 3,
+        "regenerations": 0
       }
     }
   },
@@ -759,8 +769,8 @@
         "regenerations": 68
       },
       "202506": {
-        "chats": 3,
-        "messages": 8,
+        "chats": 6,
+        "messages": 28,
         "regenerations": 1
       }
     }
@@ -907,6 +917,11 @@
         "chats": 21,
         "messages": 196,
         "regenerations": 21
+      },
+      "202506": {
+        "chats": 2,
+        "messages": 17,
+        "regenerations": 5
       }
     }
   },
@@ -995,7 +1010,7 @@
       },
       "202506": {
         "chats": 5,
-        "messages": 2,
+        "messages": 4,
         "regenerations": 0
       }
     }
@@ -1048,6 +1063,11 @@
         "chats": 2,
         "messages": 0,
         "regenerations": 0
+      },
+      "202506": {
+        "chats": 0,
+        "messages": 12,
+        "regenerations": 5
       }
     }
   },
@@ -1106,6 +1126,11 @@
         "chats": 1,
         "messages": 7,
         "regenerations": 0
+      },
+      "202506": {
+        "chats": 5,
+        "messages": 99,
+        "regenerations": 3
       }
     }
   },
@@ -1271,6 +1296,24 @@
     }
   },
   {
+    "id": "nQng6vuLYrYxcoQFt8UK",
+    "title": "Highschool",
+    "description": "It's highschool and it's everyone's first day. There is a new kid in the class and the professor is introducing them.",
+    "creator": "Jesvsl0vesy0v",
+    "bots": [
+      "(professor)-damien-cross-jt7enu8o",
+      "Alec (Your intellectual friend)",
+      "ella-eb3zw797"
+    ],
+    "scenario": "It's senior year in highschool and everyone is class with Professor Damien Cross. ",
+    "example_dialogues": "(Professor) Damien Cross: Okay class today we have a new student, Pinkis Moon. She moved from Starland.",
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/zth4sproMwdCHVpVEK2UpK2eltb2/pics/417164b43a54025c0e74e5000.webp?GoogleAccessId=firebase-adminsdk-jix9r%40privee-web.iam.gserviceaccount.com&Expires=32503680000&Signature=H%2FxXCQ507qjS8QDQXSPN%2BNg5LhuGwyNRER%2FphQo7k0ayygappqyL0F3quE%2Ft7S%2BZmdBH9yRcOkB6DU3DGqTtx1jo%2BYIyLsozMMlG8G2WjTwOaKZ5E3aBV49erNuz3JkchkyGl%2FenJwMQoqcr2wRGBYK3Yhg153M%2BBar0VHZKRhQ5ub6CN2N8qiYegNoji4Jvt0C41r5Zm%2FSSHQxJtFsUZ42fH6igLilwx8Qu0txPD2JT9OgjALohDgPtL1PDWG4IV661GdSdguE0T0%2BmpsYilH9mYE79FyW7skqOlglbgCuSrSPvLohjO%2B%2FhLO5cu56lDTHkadi1u3JDz3k7FhEteQ%3D%3D",
+    "timestamp": 1749415452127,
+    "private": false,
+    "nsfw": true,
+    "status": "public"
+  },
+  {
     "id": "niRrwkz8Iei7spdLZDyc",
     "title": "All of the Demon slayer girls ",
     "description": "All of the female characters from demon slayer ",
@@ -1359,9 +1402,9 @@
         "regenerations": 16
       },
       "202506": {
-        "chats": 11,
-        "messages": 367,
-        "regenerations": 14
+        "chats": 16,
+        "messages": 422,
+        "regenerations": 15
       }
     }
   },
@@ -1423,8 +1466,8 @@
         "regenerations": 41
       },
       "202506": {
-        "chats": 19,
-        "messages": 621,
+        "chats": 24,
+        "messages": 792,
         "regenerations": 4
       }
     }
@@ -1505,7 +1548,7 @@
         "regenerations": 0
       },
       "202506": {
-        "chats": 0,
+        "chats": 1,
         "messages": 1,
         "regenerations": 0
       }
@@ -1622,8 +1665,8 @@
         "regenerations": 9
       },
       "202506": {
-        "chats": 13,
-        "messages": 194,
+        "chats": 18,
+        "messages": 265,
         "regenerations": 34
       }
     }
@@ -1721,6 +1764,11 @@
         "chats": 2,
         "messages": 88,
         "regenerations": 84
+      },
+      "202506": {
+        "chats": 1,
+        "messages": 18,
+        "regenerations": 9
       }
     }
   },
@@ -1776,6 +1824,11 @@
       "202505": {
         "chats": 1,
         "messages": 8,
+        "regenerations": 0
+      },
+      "202506": {
+        "chats": 1,
+        "messages": 0,
         "regenerations": 0
       }
     }
