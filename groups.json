@@ -245,7 +245,7 @@
       },
       "202509": {
         "chats": 0,
-        "messages": 1,
+        "messages": 5,
         "regenerations": 0
       }
     }
@@ -320,8 +320,8 @@
         "regenerations": 26
       },
       "202509": {
-        "chats": 12,
-        "messages": 518,
+        "chats": 14,
+        "messages": 610,
         "regenerations": 24
       }
     }
@@ -437,9 +437,9 @@
         "regenerations": 1
       },
       "202509": {
-        "chats": 3,
-        "messages": 39,
-        "regenerations": 6
+        "chats": 11,
+        "messages": 224,
+        "regenerations": 8
       }
     }
   },
@@ -487,9 +487,9 @@
         "regenerations": 0
       },
       "202509": {
-        "chats": 0,
-        "messages": 5,
-        "regenerations": 0
+        "chats": 3,
+        "messages": 251,
+        "regenerations": 13
       }
     }
   },
@@ -623,6 +623,11 @@
         "chats": 2,
         "messages": 3,
         "regenerations": 2
+      },
+      "202509": {
+        "chats": 3,
+        "messages": 25,
+        "regenerations": 0
       }
     }
   },
@@ -971,8 +976,8 @@
         "regenerations": 0
       },
       "202509": {
-        "chats": 2,
-        "messages": 2,
+        "chats": 5,
+        "messages": 9,
         "regenerations": 0
       }
     }
@@ -1077,8 +1082,8 @@
         "regenerations": 0
       },
       "202509": {
-        "chats": 5,
-        "messages": 55,
+        "chats": 7,
+        "messages": 59,
         "regenerations": 59
       }
     }
@@ -1156,7 +1161,7 @@
         "regenerations": 42
       },
       "202509": {
-        "chats": 2,
+        "chats": 3,
         "messages": 0,
         "regenerations": 0
       }
@@ -1724,6 +1729,11 @@
         "chats": 43,
         "messages": 1530,
         "regenerations": 75
+      },
+      "202509": {
+        "chats": 0,
+        "messages": 3,
+        "regenerations": 0
       }
     }
   },
@@ -2079,8 +2089,8 @@
         "regenerations": 9
       },
       "202509": {
-        "chats": 0,
-        "messages": 15,
+        "chats": 3,
+        "messages": 17,
         "regenerations": 0
       }
     }
@@ -2150,7 +2160,19 @@
     "private": false,
     "nsfw": false,
     "status": "public",
-    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/hev2EP1Jk1eH6pjTyv4RjkZljxi1/pics/d0e3461b635ee3afde4f52401.webp"
+    "cover_img": "https://storage.googleapis.com/privee-web.appspot.com/users/hev2EP1Jk1eH6pjTyv4RjkZljxi1/pics/d0e3461b635ee3afde4f52401.webp",
+    "stats": {
+      "202412": {
+        "chats": 0,
+        "messages": 0,
+        "regenerations": 0
+      },
+      "202509": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
+      }
+    }
   },
   {
     "id": "y7uM4w3vVCXYV4VGCu4g",
