@@ -320,9 +320,9 @@
         "regenerations": 26
       },
       "202509": {
-        "chats": 14,
-        "messages": 610,
-        "regenerations": 24
+        "chats": 22,
+        "messages": 794,
+        "regenerations": 31
       }
     }
   },
@@ -437,9 +437,9 @@
         "regenerations": 1
       },
       "202509": {
-        "chats": 11,
-        "messages": 224,
-        "regenerations": 8
+        "chats": 14,
+        "messages": 268,
+        "regenerations": 15
       }
     }
   },
@@ -487,8 +487,8 @@
         "regenerations": 0
       },
       "202509": {
-        "chats": 3,
-        "messages": 251,
+        "chats": 4,
+        "messages": 263,
         "regenerations": 13
       }
     }
@@ -695,6 +695,11 @@
         "chats": 8,
         "messages": 33,
         "regenerations": 0
+      },
+      "202509": {
+        "chats": 0,
+        "messages": 5,
+        "regenerations": 0
       }
     }
   },
@@ -761,7 +766,7 @@
         "regenerations": 0
       },
       "202509": {
-        "chats": 2,
+        "chats": 3,
         "messages": 41,
         "regenerations": 0
       }
@@ -888,6 +893,11 @@
         "chats": 1,
         "messages": 8,
         "regenerations": 0
+      },
+      "202509": {
+        "chats": 0,
+        "messages": 32,
+        "regenerations": 1
       }
     }
   },
@@ -1161,7 +1171,7 @@
         "regenerations": 42
       },
       "202509": {
-        "chats": 3,
+        "chats": 4,
         "messages": 0,
         "regenerations": 0
       }
@@ -1271,7 +1281,7 @@
         "regenerations": 0
       },
       "202509": {
-        "chats": 3,
+        "chats": 5,
         "messages": 1,
         "regenerations": 0
       }
@@ -1478,7 +1488,7 @@
         "regenerations": 1
       },
       "202509": {
-        "chats": 7,
+        "chats": 8,
         "messages": 47,
         "regenerations": 1
       }
@@ -1810,8 +1820,8 @@
         "regenerations": 172
       },
       "202509": {
-        "chats": 8,
-        "messages": 170,
+        "chats": 10,
+        "messages": 225,
         "regenerations": 28
       }
     }
@@ -1884,7 +1894,7 @@
       },
       "202509": {
         "chats": 0,
-        "messages": 1,
+        "messages": 18,
         "regenerations": 0
       }
     }
@@ -1945,6 +1955,11 @@
         "chats": 0,
         "messages": 94,
         "regenerations": 2
+      },
+      "202509": {
+        "chats": 0,
+        "messages": 1,
+        "regenerations": 0
       }
     }
   },
@@ -2089,9 +2104,9 @@
         "regenerations": 9
       },
       "202509": {
-        "chats": 3,
-        "messages": 17,
-        "regenerations": 0
+        "chats": 7,
+        "messages": 83,
+        "regenerations": 8
       }
     }
   },
